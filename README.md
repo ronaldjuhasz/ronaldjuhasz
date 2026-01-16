@@ -13,6 +13,7 @@ I'm a student at 42 Vienna, committed to mastering full-stack development. My go
 - **CT_repo:** Developing tests in Java for continuous testing workshops.
 
 ## Certifications
+- **ISTQB Certified Tester Foundation Level**
 - **Google Analytics Advanced**
 - **Webflow Designer**
 
