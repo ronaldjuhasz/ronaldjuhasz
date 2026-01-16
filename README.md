@@ -4,7 +4,7 @@ I'm a student at 42 Vienna, committed to mastering full-stack development. My go
 
 ## About Me
 - **Studying:** Full-stack development at 42 Vienna.
-- **Languages:** C, HTML, CSS, JavaScript, learning Java.
+- **Languages:** C, C++, HTML, CSS, JavaScript, learning Java.
 - **Interests:** I'm keen on exploring backend development and cloud solutions.
 - **Projects:** From creating simple scripts to developing robust applications.
 
