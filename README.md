@@ -9,7 +9,7 @@ I'm a student at 42 Vienna, committed to mastering full-stack development. My go
 - **Projects:** From creating simple scripts to developing robust applications.
 
 ## Current Projects
-- **MiniSHELL:** Building a basic shell in C.
+- **Inception:** In this project, I'll set up a complete infrastructure using Docker Compose.
 - **CT_repo:** Developing tests in Java for continuous testing workshops.
 
 ## Certifications
