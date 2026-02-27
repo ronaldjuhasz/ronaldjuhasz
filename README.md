@@ -4,16 +4,17 @@ I'm a student at 42 Vienna, committed to mastering full-stack development. My go
 
 ## About Me
 - **Studying:** Full-stack development at 42 Vienna.
-- **Languages:** C, C++, C#, HTML, CSS, JavaScript, learning Java.
+- **Languages:** C, C++, C#, HTML, CSS, JavaScript.
 - **Interests:** I'm keen on exploring backend development and cloud solutions.
 - **Projects:** From creating simple scripts to developing robust applications.
 
 ## Current Projects
 - **Inception:** In this project, I'll set up a complete infrastructure using Docker Compose.
-- **CT_repo:** Developing tests in Java for continuous testing workshops.
+
 
 ## Certifications
 - **ISTQB Certified Tester Foundation Level**
+- **Foundational C# with Microsoft**
 - **Google Analytics Advanced**
 - **Webflow Designer**
 
