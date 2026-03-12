@@ -1,21 +1,58 @@
 # Hi, I'm Ronald Juhász 👋
 
-I'm a student at 42 Vienna, committed to mastering full-stack development. My goal is to develop solutions that are not only effective but also intuitive and user-friendly.
+I'm a software engineering student at **42 Vienna**, focused on building reliable backend systems and clean, maintainable software.
+My interests include **backend development, testing, and cloud-native architecture**.
+
+---
 
 ## About Me
-- **Studying:** Full-stack development at 42 Vienna.
-- **Languages:** C, C++, C#, HTML, CSS, JavaScript.
-- **Interests:** I'm keen on exploring backend development and cloud solutions.
-- **Projects:** From creating simple scripts to developing robust applications.
 
-## Current Projects
-- **Inception:** In this project, I'll set up a complete infrastructure using Docker Compose.
+* 🎓 **Student:** Software Engineering at **42 Vienna**
+* 💻 **Languages:** C, C++, C# (.NET), HTML, CSS, JavaScript
+* ⚙️ **Interests:** Backend development, software architecture, cloud solutions
+* 🧪 **Focus areas:** Deterministic systems, automated testing, and reliable data processing
 
+---
+
+## Selected Project
+
+### Tariff Switch Request Processor
+
+A **backend engineering case study** demonstrating deterministic batch processing and SLA-aware request handling.
+
+The application processes customer tariff-switch requests from CSV files, applies business rules, and generates deterministic outputs while ensuring idempotent execution across multiple runs.
+
+**Key highlights**
+
+* Idempotent request handling across repeated runs
+* SLA deadline calculation with **DST-safe Europe/Vienna timezone logic**
+* Robust CSV validation with **fail-fast configuration checks**
+* Deterministic outputs suitable for automated verification
+* Unit-tested business logic using **xUnit**
+
+**Tech stack**
+
+`C#` • `.NET 10` • `xUnit`
+
+🔗 Repository
+https://github.com/ronaldjuhasz/SlaRequestProcessorCaseStudy
+---
+
+## Current 42 Projects
+
+**Inception**
+Building a complete containerized infrastructure using **Docker Compose**, including multiple services and networking.
+
+---
 
 ## Certifications
-- **ISTQB Certified Tester Foundation Level**
-- **Foundational C# with Microsoft**
-- **Google Analytics Advanced**
-- **Webflow Designer**
 
-Thank you for checking out my GitHub! Let's connect and create something amazing together.
+* ISTQB Certified Tester – Foundation Level
+* Foundational C# with Microsoft
+* Google Analytics Advanced
+* Webflow Designer
+
+---
+
+Thanks for visiting my profile!
+Feel free to explore my projects and connect.
