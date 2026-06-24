@@ -40,6 +40,15 @@ https://github.com/ronaldjuhasz/SlaRequestProcessorCaseStudy
 
 ## Current 42 Projects
 
+**ft_IRC**
+
+A custom IRC server supporting multiple clients, channels, private messaging, and operator commands.
+
+**Tech stack**
+
+`C++` • `TCP Sockets` • `Poll` • `Linux`
+
+
 **Inception**
 Building a complete containerized infrastructure using **Docker Compose**, including multiple services and networking.
 
