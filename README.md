@@ -70,7 +70,7 @@ These projects gave me a solid foundation in **Linux/Unix systems programming** 
 
 ## Current 42 Projects
 
-### ft_transcendence — Near Completion
+### ft_transcendence - Near Completion
 
 The final project of the **42 Vienna Common Core**, focused on developing a full-stack web application as part of a team.
 
@@ -83,7 +83,7 @@ The project brings together frontend and backend development, application archit
 * Application architecture and backend logic
 * Testing and debugging
 
-### ft_IRC
+### ft_IRC - Completed
 
 A custom IRC server supporting multiple clients, channels, private messaging, and operator commands.
 
@@ -91,7 +91,7 @@ A custom IRC server supporting multiple clients, channels, private messaging, an
 
 `C++` • `TCP Sockets` • `Poll` • `Linux`
 
-### Inception
+### Inception - Completed
 
 Building a complete containerized infrastructure using **Docker Compose**, including multiple services and networking.
 
