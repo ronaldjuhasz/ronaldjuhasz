@@ -1,7 +1,9 @@
+
 # Hi, I'm Ronald Juhász 👋
 
-I'm a software engineering student at **42 Vienna**, focused on building reliable backend systems and clean, maintainable software.
-My interests include **backend development, testing, and cloud-native architecture**.
+I'm a software engineering student at **42 Vienna**, focused on systems programming, backend development, and building reliable, maintainable software.
+
+My interests include **Linux/Unix systems, backend development, testing, and cloud-native architecture**.
 
 ---
 
@@ -9,8 +11,8 @@ My interests include **backend development, testing, and cloud-native architectu
 
 * 🎓 **Student:** Software Engineering at **42 Vienna**
 * 💻 **Languages:** C, C++, C# (.NET), HTML, CSS, JavaScript
-* ⚙️ **Interests:** Backend development, software architecture, cloud solutions
-* 🧪 **Focus areas:** Deterministic systems, automated testing, and reliable data processing
+* ⚙️ **Interests:** Systems programming, backend development, software architecture, cloud solutions
+* 🧪 **Focus areas:** Linux/Unix, concurrency, automated testing, and reliable data processing
 
 ---
 
@@ -34,13 +36,54 @@ The application processes customer tariff-switch requests from CSV files, applie
 
 `C#` • `.NET 10` • `xUnit`
 
-🔗 Repository
-https://github.com/ronaldjuhasz/SlaRequestProcessorCaseStudy
+🔗 **Repository:** [Tariff Switch Request Processor](https://github.com/ronaldjuhasz/SlaRequestProcessorCaseStudy)
+
+---
+
+## Systems Programming | C & Linux/Unix
+
+Through my projects at **42 Vienna**, I've gained practical experience with Unix system calls, process management, interprocess communication, memory management, and multithreading.
+
+### Minishell
+Developed a Unix shell in C, implementing command execution, pipes, input/output redirections, signal handling, and process management.
+
+**Tech stack:** `C` • `POSIX` • `Linux/Unix` • `Processes` • `Signals`
+
+### Philosophers
+Implemented a multithreaded simulation using POSIX threads and mutexes, focusing on synchronization, shared resources, and concurrency.
+
+**Tech stack:** `C` • `POSIX Threads` • `Mutexes` • `Concurrency`
+
+### Pipex
+Recreated Unix pipelines using `fork()`, `execve()`, and `pipe()`, working with process creation, file descriptors, and interprocess communication.
+
+**Tech stack:** `C` • `Unix System Calls` • `Pipes` • `Processes`
+
+### Libft
+Built a custom C library implementing fundamental string manipulation, memory management, and utility functions.
+
+**Tech stack:** `C` • `Memory Management` • `Make`
+
+These projects gave me a solid foundation in **Linux/Unix systems programming** and motivated my interest in embedded and system-level software development.
+
 ---
 
 ## Current 42 Projects
 
-**ft_IRC**
+### ft_transcendence — Near Completion
+
+The final project of the **42 Vienna Common Core**, focused on developing a full-stack web application as part of a team.
+
+The project brings together frontend and backend development, application architecture, and integration of multiple components into a working system.
+
+**Focus areas**
+
+* Full-stack application development
+* Team collaboration and integration
+* Application architecture and backend logic
+* Testing and debugging
+
+### ft_IRC
 
 A custom IRC server supporting multiple clients, channels, private messaging, and operator commands.
 
@@ -48,9 +91,13 @@ A custom IRC server supporting multiple clients, channels, private messaging, an
 
 `C++` • `TCP Sockets` • `Poll` • `Linux`
 
+### Inception
 
-**Inception**
 Building a complete containerized infrastructure using **Docker Compose**, including multiple services and networking.
+
+**Tech stack**
+
+`Docker` • `Docker Compose` • `Linux` • `Networking`
 
 ---
 
@@ -64,4 +111,5 @@ Building a complete containerized infrastructure using **Docker Compose**, inclu
 ---
 
 Thanks for visiting my profile!
+
 Feel free to explore my projects and connect.
