@@ -10,7 +10,7 @@ My interests include **Linux/Unix systems, backend development, testing, and clo
 ## About Me
 
 * 🎓 **Student:** Software Engineering at **42 Vienna**
-* 💻 **Languages:** C, C++, C# (.NET), HTML, CSS, JavaScript
+* 💻 **Languages:** C, C++, C# (.NET), Go, HTML, CSS, JavaScript
 * ⚙️ **Interests:** Systems programming, backend development, software architecture, cloud solutions
 * 🧪 **Focus areas:** Linux/Unix, concurrency, automated testing, and reliable data processing
 
@@ -72,16 +72,20 @@ These projects gave me a solid foundation in **Linux/Unix systems programming** 
 
 ### ft_transcendence - Near Completion
 
-The final project of the **42 Vienna Common Core**, focused on developing a full-stack web application as part of a team.
+The final project of the **42 Vienna Common Core**, developing a full-stack web application as part of a team.
 
-The project brings together frontend and backend development, application architecture, and integration of multiple components into a working system.
+Our team chose **Go** for backend development, giving me practical experience working with a statically typed language beyond C and C++.
 
 **Focus areas**
 
+* Backend development with Go
 * Full-stack application development
 * Team collaboration and integration
-* Application architecture and backend logic
-* Testing and debugging
+* Application architecture, testing, and debugging
+
+**Tech stack**
+
+`Go` • `Full-Stack Development` • `Git`
 
 ### ft_IRC - Completed
 
